@@ -2,7 +2,11 @@
 
 SuperCollider learning resources have a tendency to be spread out and sort of hidden away in hard-to-find places of the internet. 
 
-To make the learning process easier, here is a compilation of the best and most useful resources out there (that are outside of the documentation).
+To make the learning process easier, here is a curated compilation of the best and most useful resources out there (that are outside of the documentation).
+
+The SuperCollider documentation also has some nice tutorials and guides that are worth checking out: [Pattern
+guide](http://doc.sccode.org/Browse.html#Streams-Patterns-Events%3EA-Practical-Guide), [Getting started](http://doc.sccode.org/Browse.html#Tutorials%3EGetting-Started), [Live coding basics](http://doc.sccode.org/Browse.html#Tutorials%3EJITLib)
+
 
 ---
 
