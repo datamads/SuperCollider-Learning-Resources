@@ -11,6 +11,8 @@ There's also [the SuperCollider book published by MIT](https://mitpress.mit.edu/
 
 ---
 
+### List of resources
+
 [Thor Magnussons e-book](https://thormagnusson.gitbooks.io/scoring/content/ ) 
 
 This is a very practical and example ridden approach to SuperCollider. 
