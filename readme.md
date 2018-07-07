@@ -4,6 +4,8 @@ SuperCollider learning resources have a tendency to be spread out and sort of hi
 
 To make the learning process easier, here is a compilation of the best and most useful resources out there (that are outside of the documentation).
 
+---
+
 [Thor Magnussons e-book](https://thormagnusson.gitbooks.io/scoring/content/ ) 
 
 This is a very practical and example ridden approach to SuperCollider. 
