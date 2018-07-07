@@ -7,6 +7,7 @@ To make the learning process easier, here is a curated compilation of the best a
 The SuperCollider documentation also has some nice tutorials and guides that are worth checking out: [Pattern
 guide](http://doc.sccode.org/Browse.html#Streams-Patterns-Events%3EA-Practical-Guide), [Getting started](http://doc.sccode.org/Browse.html#Tutorials%3EGetting-Started), [Live coding basics](http://doc.sccode.org/Browse.html#Tutorials%3EJITLib)
 
+There's also [the SuperCollider book published by MIT](https://mitpress.mit.edu/books/supercollider-book), a great handbook for intermediate/advanced SuperCollider coding, in my opinion, but it's not a great starting point for beginners to the language. 
 
 ---
 
