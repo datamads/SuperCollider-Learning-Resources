@@ -17,6 +17,11 @@ There's also [the SuperCollider book published by MIT](https://mitpress.mit.edu/
 
 A great, cohesive and very thorough e-book introducing both SuperCollider and a programmatical way of thinking about music. One of the best ways to get started with SC. 
 
+[Eli Fieldsteel's video
+tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC)
+
+Great series of YouTube tutorials on a range of subjects. Really informative and pedagogically sound way of learning SuperCollider and Eli is a very knowledgable instructor.
+
 [Thor Magnussons e-book](https://thormagnusson.gitbooks.io/scoring/content/ ) 
 
 This is a very practical and example ridden approach to SuperCollider. 
@@ -27,22 +32,19 @@ It's full of great signal processing tricks and tips for sound design.
 A concise guide to live coding in SuperCollider using ProxySpace, patterns
 and live "patching", etc. 
 
+[Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html)
+
+Another really good and practical SuperCollider tutorial by one of the
+heavy weights of the community. Highly recommend Collins' [machine listening work too](https://composerprogrammer.com/teaching/supercollider/advanced/#machinelistening)(there's a chapter in the MIT book on this).
+
+
+[Fredrik Olofsson's course materials for UdK Berlin](http://redfrik.github.io/udk00-Audiovisual_Programming/)   
+
+A real treasure trove of practical SuperCollider stuff and lots of ways to interact with other systems like Arduinos, Processing, Unity 3D, etc. 
+
 [Faking object-oriented programming in SuperCollider with
 Events](http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html)
 
 An annoyance for many when designing object oriented projects in SuperCollider is that you
 have to recompile constantly. This event-based trick is a workaround that makes your code easy to use and nice.
 
-[Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html)
-
-Another really good and practical SuperCollider tutorial by one of the
-heavy weights of the community. Highly recommend Collins' [machine listening work too](https://composerprogrammer.com/teaching/supercollider/advanced/#machinelistening)(there's a chapter in the MIT book on this).
-
-[Eli Fieldsteel's video
-tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC)
-
-Great series of YouTube tutorials on a range of subjects. Really informative and pedagogically sound way of learning SuperCollider and Eli is a very knowledgable instructor.
-
-[Fredrik Olofsson's course materials for UdK Berlin](http://redfrik.github.io/udk00-Audiovisual_Programming/)   
-
-A real treasure trove of practical SuperCollider stuff and lots of ways to interact with other systems like Arduinos, Processing, Unity 3D, etc. 
