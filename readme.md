@@ -13,15 +13,15 @@ There's also [the SuperCollider book published by MIT](https://mitpress.mit.edu/
 
 ### List of resources
 
-[Thor Magnussons e-book](https://thormagnusson.gitbooks.io/scoring/content/ ) 
-
-This is a very practical and example ridden approach to SuperCollider. 
-It's full of great signal processing tricks and tips for sound design.
-
 [A gentle introduction to SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
 
 A great, cohesive and free e-book that works great as an introduction to
 the language and a programming way of thinking about music
+
+[Thor Magnussons e-book](https://thormagnusson.gitbooks.io/scoring/content/ ) 
+
+This is a very practical and example ridden approach to SuperCollider. 
+It's full of great signal processing tricks and tips for sound design.
 
 [Livecode SuperCollider](https://theseanco.github.io/howto_co34pt_liveCode/)
 
