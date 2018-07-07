@@ -43,4 +43,4 @@ Great series of YouTube tutorials on a range of subjects. Really informative and
 
 [Fredrik Olofsson's course materials for UdK Berlin](http://redfrik.github.io/udk00-Audiovisual_Programming/)   
 
-An amazing collection of deep knowledge. A real treasure trove of practical SuperCollider stuff and lots of ways to interact with other systems like Arduinos, Processing, Unity 3D, etc. 
+A real treasure trove of practical SuperCollider stuff and lots of ways to interact with other systems like Arduinos, Processing, Unity 3D, etc. 
