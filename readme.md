@@ -43,7 +43,7 @@ heavy weights of the community. Highly recommend Collins' [machine listening wor
 A real treasure trove of practical SuperCollider stuff and lots of ways to interact with other systems like Arduinos, Processing, Unity 3D, etc. 
 
 [Faking object-oriented programming in SuperCollider with
-Events](http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html)
+Events](https://web.archive.org/web/20141008053015/http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html)
 
 An annoyance for many when designing object oriented projects in SuperCollider is that you
 have to recompile constantly. This event-based trick is a workaround that makes your code easy to use and nice.
